@@ -399,6 +399,8 @@ a.selected-item:before, .side-menu a:hover:before {
  margin-bottom: 20px;
 }
 .about-me .my-pic img {
+	height: 100px;
+	width: 100px;
 	border-radius: 50%;
 	border: 2px solid #dedede;
 	background: #fff;
